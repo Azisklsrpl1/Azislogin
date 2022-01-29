@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "132917833363",
+    "project_id": "azislogin-a5126",
+    "storage_bucket": "azislogin-a5126.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:132917833363:android:b57865bfe76d5d63652766",
+        "android_client_info": {
+          "package_name": "com.example.azislogin"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "132917833363-kshe266ebdsdpotblkraurh5l1kcobdp.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.azislogin",
+            "certificate_hash": "cbd9e47e930ddf29d7c5e940518000e46f2bd0fc"
+          }
+        },
+        {
+          "client_id": "132917833363-edpqe2n09svqb41tepbb7dsm4fl4mehk.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCSjdTTXltEf9XswrVtx5eagBl1QQHxxVc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "132917833363-edpqe2n09svqb41tepbb7dsm4fl4mehk.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
